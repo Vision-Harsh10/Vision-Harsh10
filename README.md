@@ -1,67 +1,82 @@
-## 👋 Hey there, I'm Harsh Vardhan
-
-A passionate developer who loves building modern, full-stack web applications and exploring backend systems. I enjoy turning ideas into reality using clean code and efficient design.
-
----
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-vardhan-4a10aa256/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshvardhan.work10@gmail.com)
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-
-**Frontend:**  
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-
-**Backend:**  
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=prisma&logoColor=white" />
-
-**Deployment:**  
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" />
-
-**Tools:**  
-<img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-
-
-
----
-
-## 🧠 Personal Philosophy
-
-> _"First, solve the problem. Then, write the code." – John Johnson_
-
----
-
-## 📈 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Vision-Harsh10&theme=dark&hide_border=true&show_icons=true&include_all_commits=true" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vision-Harsh10&theme=dark&hide_border=true&layout=compact" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hi 👋, I'm Harsh Vardhan</h1>
+<h3 align="center">A passionate developer who loves building modern, full-stack web applications and exploring backend systems. I enjoy turning ideas into reality using clean code and efficient design.</h3>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Vision-Harsh10&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://komarev.com/ghpvc/?username=vision-harsh10&label=Profile%20views&color=0e75b6&style=flat" alt="vision-harsh10" />
 </p>
 
 ---
+
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/harsh-vardhan" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harsh Vardhan" height="30" width="40" />
+  </a>
+</p>
+
+<p align="left">
+  📧 <strong>Email:</strong> <a href="mailto:harshvardhan.work10@gmail.com">harshvardhan.work10@gmail.com</a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vision-harsh10&theme=onedark&margin-w=15&margin-h=15" alt="Trophies" />
+  </a>
+</p>
+
+---
+
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vision-harsh10&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&cache_seconds=3600" alt="Top Languages" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vision-harsh10&show_icons=true&locale=en&theme=dark&hide_border=true&cache_seconds=3600" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vision-harsh10&theme=dark&hide_border=true&cache_seconds=3600" alt="GitHub Streak" />
+</p>
