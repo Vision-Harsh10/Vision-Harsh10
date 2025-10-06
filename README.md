@@ -10,7 +10,7 @@
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/harsh-vardhan" target="_blank">
+  <a href="https://www.linkedin.com/in/harsh-vardhan-4a10aa256/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harsh Vardhan" height="30" width="40" />
   </a>
 </p>
